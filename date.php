@@ -5,13 +5,14 @@
 <h1>
 	<center><br>
 <?php
-//This is a comment :)
+//built infunctions= random
 
-
-echo "My first attempt with php";
+echo date('Y');//try also with y; use offical php.net to see the diff paramters
 
 ?>
 </h1>
 </center>
 </body>
 </html>
+
+ 

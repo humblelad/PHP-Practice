@@ -4,9 +4,8 @@
 <body>
 <h1>
 	<center><br>
-<?php
+<?php>
 //This is a comment :)
-echo "My first attempt with php";
 echo "My first attempt with php";
 
 $var1="Just a string";

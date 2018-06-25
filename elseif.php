@@ -5,13 +5,23 @@
 <h1>
 	<center><br>
 <?php
-//This is a comment :)
 
-
-echo "My first attempt with php";
-
+$a=10;
+$b=10;
+if($a>$b)
+{
+	echo "a is greater";
+}
+  
+else if($a==$b)
+{
+	echo "a and b are equal";
+}
+else echo "b is greater";
 ?>
 </h1>
 </center>
 </body>
 </html>
+
+ 

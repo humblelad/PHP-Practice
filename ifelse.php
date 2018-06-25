@@ -5,13 +5,18 @@
 <h1>
 	<center><br>
 <?php
-//This is a comment :)
 
-
-echo "My first attempt with php";
-
+$a=10;
+$b=10;
+if($a==$b)
+{
+	echo "a and b are equal";
+}
+else echo "a and b are not equal";
 ?>
 </h1>
 </center>
 </body>
 </html>
+
+ 

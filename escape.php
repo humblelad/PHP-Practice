@@ -5,13 +5,18 @@
 <h1>
 	<center><br>
 <?php
-//This is a comment :)
 
+//escaping stuffs :)
 
-echo "My first attempt with php";
+$var_1="Jesus said:\" I love you !\"";
+echo $var_1."<br>";
 
+$var_2='Jesus said:\' I love you !\'';
+echo $var_2;
 ?>
 </h1>
 </center>
 </body>
 </html>
+
+ 

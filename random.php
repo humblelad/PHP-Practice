@@ -5,13 +5,16 @@
 <h1>
 	<center><br>
 <?php
-//This is a comment :)
+//built infunctions= random
 
+$something=rand(0,50);//use mt_random for more accuracy
+echo $something;
 
-echo "My first attempt with php";
 
 ?>
 </h1>
 </center>
 </body>
 </html>
+
+ 
